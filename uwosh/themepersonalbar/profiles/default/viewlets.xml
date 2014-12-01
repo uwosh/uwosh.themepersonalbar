@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<object>
+ <hidden manager="plone.portaltop" skinname="uwosh.themecollege">
+  <viewlet name="plone.personal_bar" remove="True"/>
+ </hidden>
+</object>
